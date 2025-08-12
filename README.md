@@ -67,6 +67,11 @@ The `main.py` script automates the process of creating and funding Solana wallet
 git clone https://github.com/EtienneCClarke/Automatic-Solana-Wallet-Creation-With-Funding.git
 ```
 
+### Open Project
+```bash
+cd Automatic-Solana-Wallet-Creation-With-Funding
+```
+
 ### Set Up Virtual Environment
 ```bash
 # Create a virtual environment
